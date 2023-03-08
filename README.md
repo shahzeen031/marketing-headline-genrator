@@ -37,15 +37,6 @@ const dataset = [
  ```
 
 
-
-
-
-
-
-
-
-
-
 ## Table of Contents 
 
 - [Installation](#installation)
@@ -61,6 +52,12 @@ Start by installing all Node dependencies using `npm install` in root, then `cd 
 ## Usage
 
 Run the Backend and frontend concurrently by using `npm run dev` or Run simple Backend by using `npm start`
+or vist [https://marketing-headline-generator.herokuapp.com/](https://marketing-headline-generator.herokuapp.com/) and login with sample :
+
+```js
+email: test@gmail.com
+password: 123456
+ ```
    
 
 ## Frontend
@@ -96,4 +93,8 @@ Allows to Define a routing table which is used to perform different actions base
 Backend Server run on the `http://localhost:5000`
 
 we can access the user API in Postman by `http://localhost:5000/api/interactions/postInteraction`
+
+## Output
+
+![Demo video](output.png)
 
