@@ -31,7 +31,7 @@ The Frontend is Built using React and Redux.
 
 - Responsive UI is designed using the CSS framework Bootstrap.
 
-![Demo video](./Skote - React Admin & Dashboard Template - Personal - Microsoft​ Edge 2023-03-08 12-01-51.mp4)](https://github.com/shahzeen031/marketing-headline-genrator/blob/main/Skote%20-%20React%20Admin%20%26%20Dashboard%20Template%20-%20Personal%20-%20Microsoft%E2%80%8B%20Edge%202023-03-08%2012-01-51.mp4)
+![Demo video](./Skote - React Admin & Dashboard Template - Personal - Microsoft​ Edge 2023-03-08 12-01-51.mp4)]
 
 - Redux is a predictable state container for JavaScript apps.
 
