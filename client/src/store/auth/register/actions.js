@@ -8,7 +8,7 @@ import axios from "axios";
 
 export const registerUser = async user => {
   try {
-    const res = await axios.post('http://localhost:5000/api/user', user);
+    const res = await axios.post('/api/user', user);
     if (res.data && res.data.user) {
       return {
         type: REGISTER_USER_SUCCESSFUL,
